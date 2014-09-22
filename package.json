@@ -1,5 +1,5 @@
 {
-  "name": "EcommerceSite",
+  "name": "ecommerce-site",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -17,6 +17,5 @@
     "debug": "~2.0.0",
     "jade": "~1.6.0",
     "node-compass": "0.2.3",
-    "membership": "tuxd/ecommerce-membership"
   }
 }
