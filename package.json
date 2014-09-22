@@ -1,6 +1,6 @@
 {
   "name": "EcommerceSite",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -16,6 +16,7 @@
     "serve-favicon": "~2.1.3",
     "debug": "~2.0.0",
     "jade": "~1.6.0",
-    "node-compass": "0.2.3"
+    "node-compass": "0.2.3",
+    "membership": "tuxd/ecommerce-membership"
   }
 }
